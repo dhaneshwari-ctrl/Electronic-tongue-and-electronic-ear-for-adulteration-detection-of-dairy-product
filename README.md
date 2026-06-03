@@ -61,3 +61,9 @@ The system executes four highly specialized physics-based diagnostic routines se
 4. Install dependencies: `Adafruit_SSD1306` and `Adafruit_AS7341` via your library manager.
 5. Connect your hardware components, ensuring a shared system common ground between the external 12V power supply and the STM32 GND pins.
 6. Compile the workspace and flash the target binary image to the board.
+
+## 📬 Connect With Me
+If you are a technical recruiter or an engineering team lead interested in low-level firmware development, hardware-software integration, or edge AI applications, let's connect!
+
+- **LinkedIn:** https://www.linkedin.com/in/dhaneshwari-bhujade-b72387289?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **Email:** dhaneshwaribhujade1@gmail.com  
